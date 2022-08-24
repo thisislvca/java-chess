@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<form xmlns="http://www.intellij.com/uidesigner/form/" version="1" bind-to-class="view.GUI">
+  <grid id="27dc6" binding="contentPane" layout-manager="FlowLayout" hgap="5" vgap="5" flow-align="1">
+    <constraints>
+      <xy x="20" y="20" width="771" height="570"/>
+    </constraints>
+    <properties/>
+    <border type="none"/>
+    <children/>
+  </grid>
+</form>
